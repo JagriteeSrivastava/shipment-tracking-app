@@ -40,7 +40,6 @@ A modern, glassmorphism-styled shipment tracking application built with **Larave
 2.  **Install Dependencies**
     ```bash
     composer install
-    npm install && npm run build
     ```
 
 3.  **Environment Setup**
